@@ -1,0 +1,16 @@
+# Runtime output
+*.log
+*.tmp
+*.bak
+state.json
+FF14PatchDirect-v*.zip
+
+# Windows and editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# PowerShell analysis/cache output
+*.ps1xml
+*.clixml
